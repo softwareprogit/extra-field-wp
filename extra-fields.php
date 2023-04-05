@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Extra Fields
  * Plugin URI: 
- * Description: Adds an extra Salary and Important Information fields to WP Job Manager job listings
+ * Description: Adds an extra Salary and Important Information fields to Job Manager job listings
  * Version: 1.3.0
  * Author: Rana Shabbir
  * Author URI: 
